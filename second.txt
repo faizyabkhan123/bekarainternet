@@ -1,0 +1,2 @@
+Git: Git is a distributed version control system (VCS) that tracks changes in source code during software development. It allows multiple developers to collaborate on a project, keeping a history of changes, and managing different versions of code.
+GitHub: GitHub is an online platform that provides hosting for Git repositories. It offers web-based tools for version control, collaboration, and project management, making it easier for developers to work together, share code, and contribute to open-source projects.
